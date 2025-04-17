@@ -133,7 +133,9 @@ test_pairs = [
     ("Pedro José Ramírez Ruiz", "P. J. Ramírez Ruiz"),
     ("Carlos Mendoza", "Roberto Sánchez"),
     ("Ana María López Pérez", "Ana López P."),
-    ("Jose Aldo", "Jose Aldo Fernandez G.")
+    ("Jose Aldo", "Jose Aldo Fernandez G."),
+    ("Luiz Fernandez Gomez","Luis Fernandes Gomes"),
+    ("Pedro Almodovar Sanchez", "P. Almodovare Sanchais")
 ]
 
 print("\n--- Nouvelles prédictions ---")
